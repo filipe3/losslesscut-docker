@@ -1,0 +1,8 @@
+.github
+.git
+.gitignore
+GNUmakefile
+LICENSE
+*.md
+helper-scripts/*
+docker-compose.yaml
